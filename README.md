@@ -1,5 +1,5 @@
-Quick setup
-Installation is very simple.
+<b>Quick setup
+Installation is very simple.</b>
 
 You'll need the Remastered version of the game. Any store should do, not just Steam, but older/discontinued versions like the "Prepare to Die" edition will not work with my mod;
 make sure the game was run flat (without VR) at least once, so that it had a chance to create your user profile;
